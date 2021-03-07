@@ -1,0 +1,36 @@
+body{
+   background-color:#7EB2DD; 
+   font-size: medium;
+   font-style:normal ;
+}
+header {
+    background-color:#F93943;
+    font-style: italic;
+    text-align: center;
+    padding: 1% 0;
+}
+header h1 {
+    text-shadow: 2px 2px #ffff;
+    font-size: 350%;
+}
+ img {
+    border: 3px solid black;
+}
+h3{
+font-style: italic;
+
+}
+section{
+    background-color:#fcecc9;
+    padding:0 1% 1% 1%;    
+}
+section img {
+    float: left;
+    margin-right: 1%;
+}
+footer{
+background-color: #fcecc9;
+font-size: medium;
+font-style: italic;
+position: relative;
+}
